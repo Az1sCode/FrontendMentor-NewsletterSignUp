@@ -32,10 +32,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/desktop-design.png)
-![](./screenshot/desktop-error.png)
-![](./screenshot/desktop-success.png)
-![](./screenshot/mobile-design.png) ![](./screenshot/mobile-success.png)
+![](./screenshot/desktop-design.png) ![](./screenshot/desktop-error.png)
+![](./screenshot/desktop-success.png) ![](./screenshot/mobile-design.png) ![](./screenshot/mobile-success.png)
 
 ### Links
 
